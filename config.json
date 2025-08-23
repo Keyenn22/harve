@@ -1,0 +1,92 @@
+{
+  "tokenAuth": {
+    "enabled": false,
+    "token": ""
+  },
+  "integration": {
+    "webpage": {
+      "enabled": true,
+      "port": 8080
+    },
+    "localAPI": {
+      "port": 8081,
+      "enabled": true,
+      "authKey": ""
+    },
+    "discordWebhookURL": ""
+  },
+  "buying": {
+    "bedSpamInterval": 40,
+    "preBedDelay": 30,
+    "confirmSkipEnabled": false,
+    "skipOnlyFirst": true,
+    "skipIFF": {
+      "minProfit": true,
+      "minProfitPercent": true
+    }
+  },
+  "claiming": {
+    "onlyClaimSelf": true
+  },
+  "relisting": {
+    "onlyRelistSelf": true,
+    "roundTo": 10000,
+    "expiredMultiplier": 0.95,
+    "activeMultiplier": 0.95,
+    "duration": [
+      {
+        "price": 1000000,
+        "duration": "1h"
+      },
+      {
+        "price": 10000000,
+        "duration": "6h"
+      },
+      {
+        "price": 50000000,
+        "duration": "12h"
+      },
+      {
+        "price": 100000000,
+        "duration": "24h"
+      }
+    ],
+    "manuallyList": {
+      "ids": [
+        "HYPERION",
+        "DARK_CLAYMORE",
+        "TERMINATOR",
+        "PET_GOLDEN_DRAGON_LEGENDARY",
+        "PET_ENDER_DRAGON_EPIC",
+        "PET_ENDER_DRAGON_LEGENDARY"
+      ],
+      "properties": [
+        "ultimate_chimera",
+        "skin"
+      ],
+      "instant_value": [
+        "PERFECT_JASPER_GEM",
+        "PERFECT_JADE_GEM",
+        "PERFECT_AMBER_GEM",
+        "PERFECT_OPAL_GEM",
+        "PERFECT_SAPPHIRE_GEM",
+        "PERFECT_TOPAZ_GEM"
+      ],
+      "profit": {
+        "profitPercent": false,
+        "profitAmount": 100000000
+      }
+    }
+  },
+  "api": {
+    "bmServer": "us_2",
+    "bmKey": "",
+    "hypixelKey": "",
+    "apiOverrides": {
+      "coopCount": {
+        "enabled": false,
+        "value": 0
+      }
+    }
+  }
+}
