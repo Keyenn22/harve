@@ -11,18 +11,18 @@
     "localAPI": {
       "port": 8081,
       "enabled": true,
-      "authKey": ""
+      "authKey": "harve"
     },
-    "discordWebhookURL": ""
+    "discordWebhookURL": "https://canary.discord.com/api/webhooks/1408843795520290988/DCuH_PXm-1RjjFTW1M89exA8hT_zWtR-k36jRt2C_LIoRYeGTbr2sGcWPa5zUtfGrEYl"
   },
   "buying": {
-    "bedSpamInterval": 40,
-    "preBedDelay": 30,
-    "confirmSkipEnabled": false,
-    "skipOnlyFirst": true,
+    "bedSpamInterval": 1,
+    "preBedDelay": 850,
+    "confirmSkipEnabled": true,
+    "skipOnlyFirst": false,
     "skipIFF": {
-      "minProfit": true,
-      "minProfitPercent": true
+      "minProfit": 19000000,
+      "minProfitPercent": 13
     }
   },
   "claiming": {
@@ -36,15 +36,15 @@
     "duration": [
       {
         "price": 1000000,
-        "duration": "1h"
+        "duration": "24h"
       },
       {
         "price": 10000000,
-        "duration": "6h"
+        "duration": "24h"
       },
       {
         "price": 50000000,
-        "duration": "12h"
+        "duration": "24h"
       },
       {
         "price": 100000000,
@@ -79,9 +79,9 @@
     }
   },
   "api": {
-    "bmServer": "us_2",
-    "bmKey": "",
-    "hypixelKey": "",
+    "bmServer": "us_3",
+    "bmKey": "1005899563690889287.cheater.A0aaZH-RJCADLQQBT/NVLYEJ8RNmSOx3mXTEValSJroyH29lv74NO~tcj",
+    "hypixelKey": "2f22e854-9fa4-4fe8-ae57-79043a8b188a",
     "apiOverrides": {
       "coopCount": {
         "enabled": false,

@@ -1,9 +1,9 @@
 {
-  "global_min_profit": 2000000,
-  "global_min_profit_percent": 10,
-  "global_min_volume": 0.8,
-  "global_min_confidence": 0.8,
-  "global_max_time_to_sell": 43200000,
+  "global_min_profit": 19000000,
+  "global_min_profit_percent": 13,
+  "global_min_volume": 4,
+  "global_min_confidence": 0.65,
+  "global_max_time_to_sell": 86400000,
   "item_specific_filters": {
 
   }
