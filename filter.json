@@ -1,8 +1,8 @@
 {
-  "global_min_profit": 3500000,
-  "global_min_profit_percent": 7,
-  "global_min_volume": 0,
-  "global_min_confidence": 0.5,
+  "global_min_profit": 5000000,
+  "global_min_profit_percent": 25,
+  "global_min_volume": 1,
+  "global_min_confidence": 75,
   "global_max_time_to_sell": 86400000,
   "item_specific_filters": {
     "ACACIA_DOOR_ITEM": [
