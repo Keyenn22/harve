@@ -3,6 +3,7 @@
   "global_min_profit_percent": 25,
   "global_min_volume": 1,
   "global_min_confidence": 75,
+  "global_max_time_to_sell": 86400000,
   "item_specific_filters": {
     "ACACIA_DOOR_ITEM": [
       {
@@ -16913,6 +16914,3008 @@
         },
         "matcher": {},
         "scale_price": null
+      }
+    ],
+    "GLOBAL": [
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 500000,
+            "min_profit_percent": 7,
+            "min_volume": 52.857142857142854,
+            "min_confidence": 11.279238795470151
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 2500000,
+            "min_profit_percent": 7,
+            "min_volume": 10.571428571428571,
+            "min_confidence": 6.8323414584683535
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 4500000,
+            "min_profit_percent": 7,
+            "min_volume": 5.873015873015873,
+            "min_confidence": 5.149088862775365
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 6500000,
+            "min_profit_percent": 7,
+            "min_volume": 4.065934065934066,
+            "min_confidence": 4.204651310488762
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 8500000,
+            "min_profit_percent": 7,
+            "min_volume": 3.1092436974789917,
+            "min_confidence": 3.586731646386266
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 10500000,
+            "min_profit_percent": 7,
+            "min_volume": 2.5170068027210886,
+            "min_confidence": 3.145878421228093
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 12500000,
+            "min_profit_percent": 7,
+            "min_volume": 2.1142857142857143,
+            "min_confidence": 2.813121381738873
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 14500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.8226600985221675,
+            "min_confidence": 2.551748893286655
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 16500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.6017316017316017,
+            "min_confidence": 2.340248711698077
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 18500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.4285714285714286,
+            "min_confidence": 2.1651048762296345
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 20500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.289198606271777,
+            "min_confidence": 2.0173620778223564
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 22500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.1746031746031746,
+            "min_confidence": 1.8908326378401101
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 24500000,
+            "min_profit_percent": 7,
+            "min_volume": 1.0787172011661808,
+            "min_confidence": 1.7810932870067624
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 26500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.9973045822102425,
+            "min_confidence": 1.684891733246685
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 28500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.9273182957393483,
+            "min_confidence": 1.5997792562209463
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 30500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.8665105386416861,
+            "min_confidence": 1.5238744056969395
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 32500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.8131868131868132,
+            "min_confidence": 1.455706024047864
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 34500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.7660455486542443,
+            "min_confidence": 1.3941060212574439
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 36500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.7240704500978473,
+            "min_confidence": 1.3381343386244915
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 38500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.686456400742115,
+            "min_confidence": 1.287025309323254
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 40500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.6525573192239859,
+            "min_confidence": 1.2401485852561398
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 42500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.6218487394957983,
+            "min_confidence": 1.1969801922117727
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 44500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.593900481540931,
+            "min_confidence": 1.1570807619409695
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 46500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.5683563748079877,
+            "min_confidence": 1.120078937045935
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 48500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.5449189985272459,
+            "min_confidence": 1.085658562016733
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 50500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.5233380480905233,
+            "min_confidence": 1.0535486844987056
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 52500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.5034013605442177,
+            "min_confidence": 1.0235156692338965
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 54500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.4849279161205767,
+            "min_confidence": 0.9953569189722679
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 56500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.46776232616940583,
+            "min_confidence": 0.968895830938328
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 58500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.4517704517704518,
+            "min_confidence": 0.9439777127814917
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 60500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.43683589138134593,
+            "min_confidence": 0.9204664505223519
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 62500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.4228571428571429,
+            "min_confidence": 0.8982417709438465
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 64500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.4097452934662237,
+            "min_confidence": 0.8771969776473741
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 66500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.39742212674543503,
+            "min_confidence": 0.8572370673553487
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 68500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3858185610010427,
+            "min_confidence": 0.83827715360129
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 70500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.37487335359675783,
+            "min_confidence": 0.8202411405390179
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 72500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3645320197044335,
+            "min_confidence": 0.8030606015265638
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 74500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3547459252157239,
+            "min_confidence": 0.7866738263339486
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 76500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.34547152194211017,
+            "min_confidence": 0.7710250079661524
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 78500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.33666969972702454,
+            "min_confidence": 0.7560635456808862
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 80500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3283052351375333,
+            "min_confidence": 0.7417434451828513
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 82500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3203463203463203,
+            "min_confidence": 0.7280228004660028
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 84500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.3127641589180051,
+            "min_confidence": 0.7148633445587648
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 86500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.305532617671346,
+            "min_confidence": 0.7022300586599152
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 88500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2986279257465698,
+            "min_confidence": 0.6900908309537028
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 90500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2920284135753749,
+            "min_confidence": 0.6784161578527934
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 92500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2857142857142857,
+            "min_confidence": 0.667178881607205
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 94500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2796674225245654,
+            "min_confidence": 0.6563539591911919
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 96500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.27387120651369357,
+            "min_confidence": 0.6459182581807748
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 98500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2683103698332125,
+            "min_confidence": 0.6358503759959055
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 100500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.26297085998578534,
+            "min_confidence": 0.62613047942962
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 102500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2578397212543554,
+            "min_confidence": 0.6167401618430561
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 104500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.252904989747095,
+            "min_confidence": 0.6076623157867164
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 106500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.24815560026827632,
+            "min_confidence": 0.5988810191283127
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 108500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2435813034891376,
+            "min_confidence": 0.5903814330368244
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 110500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2391725921137686,
+            "min_confidence": 0.5821497103997909
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 112500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.23492063492063492,
+            "min_confidence": 0.5741729134435011
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 114500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.23081721771678104,
+            "min_confidence": 0.5664389394894451
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 116500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2268546903740037,
+            "min_confidence": 0.5589364539199166
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 118500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2230259192284509,
+            "min_confidence": 0.5516548295449184
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 120500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.21932424422050978,
+            "min_confidence": 0.5445840916647461
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 122500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.21574344023323616,
+            "min_confidence": 0.5377148682104833
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 124500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.21227768215720022,
+            "min_confidence": 0.5310383444203391
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 126500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.20892151326933936,
+            "min_confidence": 0.5245462215751551
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 128500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2056698165647582,
+            "min_confidence": 0.5182306793730261
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 130500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.2025177887246853,
+            "min_confidence": 0.5120843415721311
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 132500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.19946091644204852,
+            "min_confidence": 0.5061002445736091
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 134500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.19649495485926713,
+            "min_confidence": 0.5002718086535959
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 136500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1936159079016222,
+            "min_confidence": 0.49459281158608825
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 138500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.19082001031459514,
+            "min_confidence": 0.4890573644268102
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 140500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.18810371123538383,
+            "min_confidence": 0.483659889253259
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 142500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.18546365914786966,
+            "min_confidence": 0.4783950986780821
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 144500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1828966880869995,
+            "min_confidence": 0.47325797697228944
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 146500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1803998049731838,
+            "min_confidence": 0.46824376265186984
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 148500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.17797017797017797,
+            "min_confidence": 0.4633479323964716
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 150500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.17560512577123874,
+            "min_confidence": 0.4585661861821529
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 152500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.17330210772833723,
+            "min_confidence": 0.4538944335220565
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 154500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.17105871474803513,
+            "min_confidence": 0.4493287807193716
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 156500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.16887266088544045,
+            "min_confidence": 0.44486551904630806
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 158500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.16674177557458314,
+            "min_confidence": 0.44050111377113854
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 160500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.16466399643969737,
+            "min_confidence": 0.4362321939628026
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 162500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.16263736263736264,
+            "min_confidence": 0.4320555430092145
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 164500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.16066000868432478,
+            "min_confidence": 0.42796808979136
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 166500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.15873015873015872,
+            "min_confidence": 0.42396690046060204
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 168500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.15684612123781264,
+            "min_confidence": 0.4200491707713924
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 170500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1550062840385421,
+            "min_confidence": 0.41621221892588733
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 172500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.15320910973084886,
+            "min_confidence": 0.41245347889082834
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 174500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1514531313958248,
+            "min_confidence": 0.4087704941505355
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 176500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.14973694860380413,
+            "min_confidence": 0.40516091186299735
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 178500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1480592236894758,
+            "min_confidence": 0.4016224773888822
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 180500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.14641867827463395,
+            "min_confidence": 0.3981530291658562
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 182500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.14481409001956946,
+            "min_confidence": 0.39475049390291894
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 184500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.143244289585753,
+            "min_confidence": 0.3914128820715656
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 186500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.14170815779394869,
+            "min_confidence": 0.38813828367249753
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 188500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.14020462296324365,
+            "min_confidence": 0.3849248642583311
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 190500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.13873265841769777,
+            "min_confidence": 0.3817708611943345
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 192500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.137291280148423,
+            "min_confidence": 0.37867458014065086
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 194500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1358795446199045,
+            "min_confidence": 0.375634391740774
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 196500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.13449654671028716,
+            "min_confidence": 0.3726487285022344
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 198500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1331414177761785,
+            "min_confidence": 0.36971608185653637
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 200500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.13181332383327396,
+            "min_confidence": 0.36683499938638336
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 202500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.13051146384479717,
+            "min_confidence": 0.36400408220913344
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 204500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12923506811037375,
+            "min_confidence": 0.36122198250625875
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 206500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12798339674852993,
+            "min_confidence": 0.3584874011893427
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 208500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12675573826652964,
+            "min_confidence": 0.3557990856938486
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 210500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12555140821174077,
+            "min_confidence": 0.3531558278925293
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 212500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12436974789915967,
+            "min_confidence": 0.35055646212093944
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 214500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12321012321012322,
+            "min_confidence": 0.3479998633080504
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 216500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12207192345760474,
+            "min_confidence": 0.3454849452054643
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 218500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.12095456031382805,
+            "min_confidence": 0.3430106587091823
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 220500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1198574667962423,
+            "min_confidence": 0.34057599026830354
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 222500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1187800963081862,
+            "min_confidence": 0.33817996037541964
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 224500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11772192173083042,
+            "min_confidence": 0.33582162213382744
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 226500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11668243456322927,
+            "min_confidence": 0.3335000598970159
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 228500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1156611441075336,
+            "min_confidence": 0.3312143879761873
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 230500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11465757669662224,
+            "min_confidence": 0.3289637494118549
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 232500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11367127496159754,
+            "min_confidence": 0.326747314805825
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 234500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11270179713676515,
+            "min_confidence": 0.3245642812101084
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 236500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.1117487163998792,
+            "min_confidence": 0.32241387106953584
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 238500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.11081162024558251,
+            "min_confidence": 0.32029533121505593
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 240500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10989010989010989,
+            "min_confidence": 0.31820793190489094
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 242500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10898379970544919,
+            "min_confidence": 0.31615096591090325
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 244500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10809231668127374,
+            "min_confidence": 0.3141237476476913
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 246500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10721529991306868,
+            "min_confidence": 0.31212561234209074
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 248500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10635240011497557,
+            "min_confidence": 0.3101559152408995
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 250500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10550327915597377,
+            "min_confidence": 0.30821403085477866
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 252500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10466760961810467,
+            "min_confidence": 0.30629935223640714
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 254500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10384507437552624,
+            "min_confidence": 0.3044112902910853
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 256500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10303536619326092,
+            "min_confidence": 0.30254927311808755
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 258500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10223818734457032,
+            "min_confidence": 0.3007127453811694
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 260500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10145324924595558,
+            "min_confidence": 0.2989011677067259
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 262500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.10068027210884353,
+            "min_confidence": 0.29711401610818783
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 264500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09991898460707535,
+            "min_confidence": 0.29535078143532384
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 266500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09916912355936747,
+            "min_confidence": 0.29361096884719373
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 268500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09843043362596435,
+            "min_confidence": 0.2918940973075711
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 270500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09770266701874834,
+            "min_confidence": 0.2901996991017186
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 272500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09698558322411534,
+            "min_confidence": 0.28852731937346504
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 274500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09627894873796514,
+            "min_confidence": 0.28687651568159
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 276500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09558253681219323,
+            "min_confidence": 0.28524685757457896
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 278500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09489612721210566,
+            "min_confidence": 0.2836379261828626
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 280500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09421950598421186,
+            "min_confidence": 0.2820493138277035
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 282500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09355246523388117,
+            "min_confidence": 0.28048062364593745
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 284500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0928948029123776,
+            "min_confidence": 0.2789314692298229
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 286500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09224632261281476,
+            "min_confidence": 0.27740147428128764
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 288500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09160683337459767,
+            "min_confidence": 0.27589027227990426
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 290500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09097614949594296,
+            "min_confidence": 0.2743975061639579
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 292500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.09035409035409035,
+            "min_confidence": 0.2729228280240064
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 294500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08974048023284016,
+            "min_confidence": 0.27146589880836114
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 296500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08913514815707059,
+            "min_confidence": 0.2700263880399492
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 298500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08853792773390763,
+            "min_confidence": 0.2686039735440451
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 300500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0879486570002377,
+            "min_confidence": 0.26719834118638386
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 302500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08736717827626919,
+            "min_confidence": 0.26580918462119674
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 304500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08679333802486512,
+            "min_confidence": 0.26443620504872917
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 306500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08622698671638312,
+            "min_confidence": 0.2630791109818267
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 308500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08566797869877286,
+            "min_confidence": 0.26173761802119333
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 310500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08511617207269381,
+            "min_confidence": 0.26041144863894616
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 312500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08457142857142858,
+            "min_confidence": 0.2591003319701101
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 314500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08403361344537816,
+            "min_confidence": 0.2578040036117131
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 316500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08350259535093658,
+            "min_confidence": 0.2565222054291584
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 318500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08297824624355236,
+            "min_confidence": 0.25525468536956747
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 320500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08246044127479385,
+            "min_confidence": 0.25400119728180043
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 322500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08194905869324474,
+            "min_confidence": 0.2527615007428756
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 324500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08144397974906449,
+            "min_confidence": 0.25153536089052364
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 326500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08094508860205644,
+            "min_confidence": 0.250322548261622
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 328500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.08045227223309415,
+            "min_confidence": 0.2491228386362711
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 330500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07996542035876378,
+            "min_confidence": 0.24793601288728065
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 332500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.079484425349087,
+            "min_confidence": 0.2467618568348482
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 334500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0790091821481956,
+            "min_confidence": 0.24560016110622093
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 336500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07853958819783485,
+            "min_confidence": 0.24445072100014165
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 338500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07807554336357882,
+            "min_confidence": 0.24331333635588803
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 340500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0776169498636459,
+            "min_confidence": 0.2421878114267249
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 342500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07716371220020855,
+            "min_confidence": 0.2410739547575949
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 344500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07671573709309558,
+            "min_confidence": 0.23997157906688288
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 346500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07627293341579056,
+            "min_confidence": 0.23888050113209527
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 348500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07583521213363394,
+            "min_confidence": 0.23780054167930362
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 350500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07540248624414102,
+            "min_confidence": 0.23673152527620758
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 352500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07497467071935157,
+            "min_confidence": 0.23567328022867912
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 354500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07455168245013097,
+            "min_confidence": 0.23462563848065576
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 356500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07413344019234622,
+            "min_confidence": 0.23358843551725683
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 358500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0737198645148436,
+            "min_confidence": 0.23256151027100086
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 360500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07331087774915791,
+            "min_confidence": 0.2315447050310093
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 362500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0729064039408867,
+            "min_confidence": 0.2305378653550849
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 364500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0725063688026651,
+            "min_confidence": 0.22954083998455907
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 366500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07211069966868057,
+            "min_confidence": 0.22855348076180604
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 368500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07171932545066874,
+            "min_confidence": 0.22757564255032686
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 370500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07133217659533449,
+            "min_confidence": 0.22660718315730977
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 372500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07094918504314478,
+            "min_confidence": 0.22564796325857692
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 374500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07057028418844173,
+            "min_confidence": 0.22469784632583226
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 376500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.07019540884082717,
+            "min_confidence": 0.22375669855612818
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 378500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06982449518777127,
+            "min_confidence": 0.22282438880347152
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 380500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0694574807584006,
+            "min_confidence": 0.2219007885124938
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 382500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06909430438842204,
+            "min_confidence": 0.2209857716541126
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 384500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06873490618614156,
+            "min_confidence": 0.22007921466311467
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 386500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06837922749953798,
+            "min_confidence": 0.2191809963775933
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 388500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06802721088435375,
+            "min_confidence": 0.21829099798017645
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 390500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06767880007316628,
+            "min_confidence": 0.21740910294098292
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 392500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06733393994540492,
+            "min_confidence": 0.2165351969622481
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 394500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06699257649827992,
+            "min_confidence": 0.21566916792456162
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 396500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06665465681859124,
+            "min_confidence": 0.214810905834663
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 398500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06632012905538627,
+            "min_confidence": 0.21396030277474132
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 400500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06598894239343678,
+            "min_confidence": 0.21311725285318972
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 402500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06566104702750665,
+            "min_confidence": 0.212281652156765
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 404500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06533639413738301,
+            "min_confidence": 0.21145339870410634
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 406500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06501493586364435,
+            "min_confidence": 0.21063239240056697
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 408500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06469662528414058,
+            "min_confidence": 0.20981853499431696
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 410500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0643814163911606,
+            "min_confidence": 0.20901173003367418
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 412500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06406926406926407,
+            "min_confidence": 0.2082118828256237
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 414500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06376012407375495,
+            "min_confidence": 0.20741890039548735
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 416500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06345395300977534,
+            "min_confidence": 0.20663269144770577
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 418500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06315070831199864,
+            "min_confidence": 0.20585316632769715
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 420500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06285034822490233,
+            "min_confidence": 0.20508023698475858
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 422500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06255283178360102,
+            "min_confidence": 0.2043138169359762
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 424500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06225811879522127,
+            "min_confidence": 0.20355382123111243
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 426500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06196616982080053,
+            "min_confidence": 0.20280016641843965
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 428500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.061676946157692945,
+            "min_confidence": 0.2020527705114896
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 430500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.061390409822465575,
+            "min_confidence": 0.20131155295669134
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 432500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0611065235342692,
+            "min_confidence": 0.20057643460186847
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 434500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06082525069866842,
+            "min_confidence": 0.19984733766557025
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 436500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.06054655539191622,
+            "min_confidence": 0.19912418570720997
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 438500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.060270402345658905,
+            "min_confidence": 0.19840690359798616
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 440500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05999675693205773,
+            "min_confidence": 0.19769541749256303
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 442500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05972558514931396,
+            "min_confidence": 0.19698965480148606
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 444500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.059456853607584764,
+            "min_confidence": 0.19628954416431124
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 446500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.059190529515277555,
+            "min_confidence": 0.19559501542342633
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 448500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.058926580665711104,
+            "min_confidence": 0.19490599959854277
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 450500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05866497542413192,
+            "min_confidence": 0.19422242886183902
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 452500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05840568271507498,
+            "min_confidence": 0.19354423651373506
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 454500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05814867201005815,
+            "min_confidence": 0.1928713569592801
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 456500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.057893913315600065,
+            "min_confidence": 0.19220372568513466
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 458500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05764137716155164,
+            "min_confidence": 0.19154127923713035
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 460500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05739103458973166,
+            "min_confidence": 0.19088395519838938
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 462500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05714285714285714,
+            "min_confidence": 0.1902316921679887
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 464500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0568968168537598,
+            "min_confidence": 0.18958442974015183
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 466500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0566528862348798,
+            "min_confidence": 0.1889421084839541
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 468500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.056411038268028665,
+            "min_confidence": 0.1883046699235256
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 470500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05617124639441324,
+            "min_confidence": 0.1876720565187384
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 472500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.055933484504913075,
+            "min_confidence": 0.18704421164636356
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 474500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.055697726930603646,
+            "min_confidence": 0.1864210795816851
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 476500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05546394843351821,
+            "min_confidence": 0.18580260548055763
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 478500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05523212419764144,
+            "min_confidence": 0.1851887353618952
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 480500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05500222982012784,
+            "min_confidence": 0.1845794160905795
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 482500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05477424130273871,
+            "min_confidence": 0.18397459536077526
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 484500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05454813504349108,
+            "min_confidence": 0.18337422167964215
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 486500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.0543238878285127,
+            "min_confidence": 0.1827782443514314
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 488500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05410147682409709,
+            "min_confidence": 0.18218661346195703
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 490500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05388087956895296,
+            "min_confidence": 0.18159927986343147
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 492500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05366207396664249,
+            "min_confidence": 0.18101619515965522
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 494500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05344503827820309,
+            "min_confidence": 0.18043731169155094
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 496500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05322975111494749,
+            "min_confidence": 0.17986258252303305
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 498500000,
+            "min_profit_percent": 7,
+            "min_volume": 0.05301619143143717,
+            "min_confidence": 0.1792919614272031
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
       }
     ]
   }
