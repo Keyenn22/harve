@@ -11541,6 +11541,42 @@
         },
         "matcher": {},
         "scale_price": null
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "magic_find": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "fishing_experience": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
       }
     ],
     "MAGMA_LORD_FRAGMENT": [
@@ -11559,6 +11595,54 @@
         },
         "matcher": {},
         "scale_price": null
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {},
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "magic_find": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "fishing_experience": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
       }
     ],
     "MAGMA_LORD_LEGGINGS": [
@@ -11568,6 +11652,42 @@
         },
         "matcher": {},
         "scale_price": null
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "magic_find": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
+      },
+      {
+        "filter_type": {
+          "Consider": {
+            "min_profit": 5000000,
+            "min_profit_percent": 12,
+            "min_volume": 1,
+            "min_confidence": 60
+          }
+        },
+        "matcher": {
+          "fishing_experience": {
+            "String": {
+              "Equal": []
+            }
+          }
+        },
+        "scale_price": 0.95
       }
     ],
     "MAGMA_ROD": [
